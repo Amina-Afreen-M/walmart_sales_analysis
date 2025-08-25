@@ -1,0 +1,12 @@
+# Hide environment file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Config files (if you use them)
+config.py
