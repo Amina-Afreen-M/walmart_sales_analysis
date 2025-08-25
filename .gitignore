@@ -10,3 +10,6 @@ __pycache__/
 
 # Config files (if you use them)
 config.py
+
+# Virtual environment
+my_env/
